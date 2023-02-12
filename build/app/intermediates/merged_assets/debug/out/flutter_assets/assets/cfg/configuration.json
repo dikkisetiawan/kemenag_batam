@@ -1,0 +1,8 @@
+{
+  "api_base_url": "https://flyweb.batamteknologi.id/",
+  "firstColor": "#ecfff5",
+  "secondColor": "#ffffff", 
+  "appIdOneSignal": "xxxxxxxxx-xxxx-xxxx-xxx-xxxxxxxxxxx",
+  "defaultLanguage": "en",
+  "deeplink": "app.flyweb.scheme"
+}
